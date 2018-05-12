@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35221'
     url: http://www.gutenberg.org/2009/agents/35221
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31429#Washo-Religion
 gutenberg_issued: '2010-02-27'
 gutenberg_type: Text
 identifiers:
