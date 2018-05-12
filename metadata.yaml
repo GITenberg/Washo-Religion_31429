@@ -1,0 +1,28 @@
+_repo: Washo-Religion_31429
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Downs, James F.
+    birthdate: 1923
+    deathdate: 1999
+    gutenberg_agent_id: '35221'
+    url: http://www.gutenberg.org/2009/agents/35221
+description: ''
+gutenberg_issued: '2010-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31429'
+  lccn: '61004716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Anthropological Records, Vol. 16, No. 9
+subjects:
+- !lcsh 'Washoe Indians -- Religion'
+- !lcc 'E011'
+title: Washo Religion
+url: http://www.gutenberg.org/ebooks/31429
